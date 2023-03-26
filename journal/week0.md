@@ -17,7 +17,7 @@ The first week, getting excited to learn more and get into labbing along the way
 
 I'm running Windows 11 and I use Windows Package Manager (winget) to manage my installed application. Winget allows me to ensure that I am able to run a auto update script on my machine on login which will query all the app version against their repo(s) and then update then to the latest version to esure tha latest versions are installed.
 
-/assets/week0/aws-client-install-2023-03-26_17-35-19.png
+![aws client install](https://github.com/petermustow/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week0/aws-client-install-2023-03-26_17-35-19.png)
 
 ## Create a billing alert
 
