@@ -11,6 +11,14 @@ NOTE:
 Role: arn:aws:iam::aws:policy/job-function/Billing
 Description: Grants permissions for billing and cost management. This includes viewing account usage and viewing and modifying budgets and payment methods.
 
+
+
+## Installing AWS CLI
+I'm running Windows 11 and I use Windows Package Manager (winget) to manage my installed application. Winget allows me to ensure that I am able to run a auto update script on my machine on login which will query all the app version against their repo(s) and then update then to the latest version to esure tha latest versions are installed
+
+![Alt text](\assets\week0\aws-client-install-2023-03-26_17-35-19.png "install aws client")
+
+
 # Create a billing alert
 Link: https://aws.amazon.com/premiumsupport/knowledge-center/cloudwatch-estimatedcharges-alarm/
 Tips: 10 free alarms.
@@ -167,10 +175,6 @@ This is a list of all the free services that you are able to leverage with your 
 
 
 # Architecture
-
-
-
-
 
 https://lucid.app/lucidchart/d02dea50-6c56-4905-bb11-ec45480594d2/edit?invitationId=inv_2969bae4-e8b6-44b4-8dda-beadba7db1aa
 
